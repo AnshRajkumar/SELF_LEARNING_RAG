@@ -1,0 +1,200 @@
+[
+  {
+    "id": "041bf773-deaa-4b1a-b81e-270a1964cc58",
+    "timestamp": "2026-09-28T06:56:02.999320Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "09b365eb-11d1-469e-84f3-322b4c4ce792",
+    "timestamp": "2026-09-28T06:56:41.530155Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "38af327a-6959-49cf-b295-6dd508f66251",
+    "timestamp": "2026-09-28T06:56:41.572286Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "5c55f658-5304-4e44-b769-86d3f574f5ee",
+    "timestamp": "2026-11-09T15:38:31.170475Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "3f6afb09-40d2-4138-8d50-3ccaca3ce3d7",
+    "timestamp": "2026-11-09T15:38:31.197578Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information in the documents.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "2a3a33c3-13d7-4d25-8093-bbb3b456ba2a",
+    "timestamp": "2026-11-09T15:52:48.437575Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "9f2e51ec-db16-459a-9db1-0ad00df816df",
+    "timestamp": "2026-11-09T15:52:48.448855Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information in the documents.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "4e87c84b-c684-46e0-a9de-45163bdf569b",
+    "timestamp": "2026-11-09T16:04:04.592487Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "correction": null,
+    "failure_reason": null,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "8512f9af-6cb5-499c-9c2d-1467f517cd36",
+    "timestamp": "2026-11-09T16:04:04.601902Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information in the documents.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "correction": "Quantum computing uses superposition and entanglement. State that it is outside our internal documentation.",
+    "failure_reason": "out_of_domain",
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "b3c4d41e-af45-40b2-b061-ef65276ce3e6",
+    "timestamp": "2026-11-09T16:13:40.871813Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "correction": null,
+    "failure_reason": null,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "68336ff0-4e57-493b-ba51-ac03ea7dccb9",
+    "timestamp": "2026-11-09T16:13:40.899548Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information in the documents.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "correction": "Quantum computing uses superposition and entanglement. State that it is outside our internal documentation.",
+    "failure_reason": "out_of_domain",
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "a4daa73f-e9f8-4046-9f0e-1ddc221086c7",
+    "timestamp": "2026-11-09T16:15:53.698549Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "correction": null,
+    "failure_reason": null,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "02f27dde-efd9-4716-8146-5791f28f41b6",
+    "timestamp": "2026-11-09T16:15:53.730078Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "correction": null,
+    "failure_reason": null,
+    "sources": [],
+    "context_snippet": ""
+  },
+  {
+    "id": "5fd6c0e4-6ba3-4d21-a27e-9482e1cfb176",
+    "timestamp": "2026-11-09T16:19:04.740980Z",
+    "query": "What is retrieval-augmented generation?",
+    "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It works by retrieving relevant documents from a knowledge base and using them as context to generate accurate and grounded answers.",
+    "feedback": "good",
+    "auto_score": 1.0,
+    "correction": null,
+    "failure_reason": null,
+    "sources": [
+      "sample_docs.txt",
+      "sample_docs.txt",
+      "sample_docs.txt"
+    ],
+    "context_snippet": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generat"
+  },
+  {
+    "id": "db463a40-1d74-47ad-959f-0946103896f8",
+    "timestamp": "2026-11-09T16:19:04.787952Z",
+    "query": "What is quantum computing?",
+    "answer": "I could not find relevant information in the documents.",
+    "feedback": "bad",
+    "auto_score": 0.1,
+    "correction": "Quantum computing uses superposition and entanglement. State that it is outside our internal documentation.",
+    "failure_reason": "out_of_domain",
+    "sources": [],
+    "context_snippet": ""
+  }
+]

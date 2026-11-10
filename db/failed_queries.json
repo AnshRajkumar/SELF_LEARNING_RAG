@@ -1,0 +1,10 @@
+[
+  {
+    "query": "What is quantum computing?",
+    "failure_count": 7,
+    "first_seen": "2026-09-28T06:56:41.579407Z",
+    "last_seen": "2026-11-09T16:19:04.825376Z",
+    "latest_answer": "I could not find relevant information in the documents.",
+    "latest_score": 0.1
+  }
+]

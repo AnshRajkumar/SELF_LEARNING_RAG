@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that can access data and use it to learn for themselves.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "A Transformer is a deep learning model that adopts the mechanism of self-attention, differentially weighting the significance of each part of the input data. It is used primarily in the fields of natural language processing and computer vision.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based machine learning technique for natural language processing pre-training developed by Google. BERT was created and published in 2018 by Jacob Devlin and his colleagues.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "GPT (Generative Pre-trained Transformer) is a type of large language model and a prominent framework for generative artificial intelligence. It was introduced in 2018 by OpenAI and has been revised since.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It retrieves relevant documents from a knowledge base and uses them as context for generating accurate and grounded answers.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "FAISS (Facebook AI Similarity Search) is an open-source library developed by Meta for efficient similarity search and clustering of dense vectors. It is widely used for nearest-neighbor search in embedding-based retrieval systems.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Sentence-transformers is a Python framework for state-of-the-art sentence, text and image embeddings. The models are based on transformer networks and can be used for many applications like semantic search, clustering and paraphrase mining.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "FastAPI is a modern, fast web framework for building APIs with Python, based on standard Python type hints. It is one of the fastest Python frameworks available and automatically generates interactive API documentation.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Vector databases store data as high-dimensional vectors (embeddings) and are optimized for similarity search. Examples include Pinecone, Weaviate, Qdrant, Milvus, and FAISS. They are essential for modern AI applications.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Embeddings are numerical representations of data (text, images, audio) in a high-dimensional space. Similar items are placed close together in embedding space, enabling semantic search and recommendation systems.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Prompt engineering is the process of designing and refining input prompts to guide large language models towards desired outputs. It is a critical skill for working effectively with AI systems like GPT and Claude.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Fine-tuning is the process of training a pre-trained model on a domain-specific dataset to adapt it for a particular task. It is more efficient than training from scratch and often yields better results on specialized tasks.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Reinforcement Learning from Human Feedback (RLHF) is a technique used to train AI systems to align with human preferences. It involves training a reward model from human feedback and using it to optimize the main model via reinforcement learning.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Zero-shot learning refers to a model's ability to correctly make predictions for classes that it has never seen during training. Large language models exhibit impressive zero-shot capabilities across many tasks.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Few-shot learning is a machine learning approach where a model learns from a very small number of examples. Large language models can perform few-shot learning through in-context learning using prompts.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Semantic search uses machine learning to understand the context and meaning behind a query, rather than just matching keywords. It returns results based on semantic similarity, leading to more relevant and accurate search results.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "Knowledge graphs are structured representations of information that use nodes (entities) and edges (relationships) to model real-world concepts. They are used in search engines, recommendation systems and AI reasoning.",
+    "source": "sample_docs.txt"
+  },
+  {
+    "text": "The attention mechanism in neural networks allows the model to focus on different parts of the input when producing an output. It was introduced in 2015 and is the foundation of the Transformer architecture.",
+    "source": "sample_docs.txt"
+  }
+]
